@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files from script
+*.tmp
+
+# Virtual environment
+venv/
+env/
+*.venv/
+.venv/
+*/venv/
+*/env/
+*/.venv/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
